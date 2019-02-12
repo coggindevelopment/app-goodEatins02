@@ -16,6 +16,7 @@
 		A359890922119159006E9B29 /* Recipe.swift in Sources */ = {isa = PBXBuildFile; fileRef = A359890822119159006E9B29 /* Recipe.swift */; };
 		A359890B221191A2006E9B29 /* DataSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A359890A221191A2006E9B29 /* DataSet.swift */; };
 		A3BAD9562212E31D00B5C8A3 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BAD9552212E31D00B5C8A3 /* CategoryCell.swift */; };
+		A3BAD9582212E70E00B5C8A3 /* RecipesSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3BAD9572212E70E00B5C8A3 /* RecipesSelectionVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		A359890822119159006E9B29 /* Recipe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Recipe.swift; sourceTree = "<group>"; };
 		A359890A221191A2006E9B29 /* DataSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSet.swift; sourceTree = "<group>"; };
 		A3BAD9552212E31D00B5C8A3 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		A3BAD9572212E70E00B5C8A3 /* RecipesSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipesSelectionVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				A35988F32211907E006E9B29 /* HomeVC.swift */,
+				A3BAD9572212E70E00B5C8A3 /* RecipesSelectionVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -175,6 +178,7 @@
 				A359890B221191A2006E9B29 /* DataSet.swift in Sources */,
 				A3598907221190DD006E9B29 /* FoodCategory.swift in Sources */,
 				A35988F22211907E006E9B29 /* AppDelegate.swift in Sources */,
+				A3BAD9582212E70E00B5C8A3 /* RecipesSelectionVC.swift in Sources */,
 				A359890922119159006E9B29 /* Recipe.swift in Sources */,
 				A3BAD9562212E31D00B5C8A3 /* CategoryCell.swift in Sources */,
 			);
